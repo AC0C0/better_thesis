@@ -3,3 +3,4 @@ my_file/
 log/*.log
 !log/something_else.R
 data/
+log/
